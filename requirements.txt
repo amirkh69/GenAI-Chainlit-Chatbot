@@ -1,0 +1,5 @@
+chainlit
+openai
+python-dotenv
+pydantic==2.10.1
+-e .
